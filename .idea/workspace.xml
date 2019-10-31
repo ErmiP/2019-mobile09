@@ -2,11 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46e2a603-53e5-4de0-8f5c-18ec285db247" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/RecyclerviewSangatSederhana/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RecyclerviewSangatSederhana/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RecyclerviewSangatSederhana/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RecyclerviewSangatSederhana/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RecyclerviewSangatSederhana/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TugasNomer1/app/src/main/res/drawable-hdpi/bebek_hewan.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TugasNomer1/app/src/main/res/drawable-hdpi/gajah_hewan.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TugasNomer1/app/src/main/res/drawable-mdpi/bebek_hewan.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TugasNomer1/app/src/main/res/drawable-mdpi/gajah_hewan.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TugasNomer1/app/src/main/res/drawable-xhdpi/bebek_hewan.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TugasNomer1/app/src/main/res/drawable-xhdpi/gajah_hewan.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TugasNomer1/app/src/main/res/drawable-xxhdpi/bebek_hewan.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TugasNomer1/app/src/main/res/drawable-xxhdpi/gajah_hewan.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TugasNomer1/app/src/main/res/drawable-xxxhdpi/bebek_hewan.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TugasNomer1/app/src/main/res/drawable-xxxhdpi/gajah_hewan.png" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,13 +33,13 @@
     </navigator>
     <panes>
       <pane id="ProjectPane" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/RecyclerviewSangatSederhana" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../2019-mobile10/ColorChangerNormal" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
   <component name="RunDashboard">
@@ -66,7 +71,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info id="Captures" order="0" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.16145833" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.16145833" />
       <window_info id="Structure" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="4" />
@@ -75,7 +80,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="TODO" order="1" />
-      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="2" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />

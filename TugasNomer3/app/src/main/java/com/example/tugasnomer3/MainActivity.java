@@ -30,7 +30,10 @@ public class MainActivity extends AppCompatActivity {
         //menambahkan hero ke listSuperHero
         listHewan.add(hewan);
         //membuat object hero baru
-        hewan = new Hewan("Anjing", this.getResources().getDrawable(R.drawable.anjing_hewan));
+        hewan = new Hewan("Kucing", this.getResources().getDrawable(R.drawable.kucing_hewan));
+        //menambahkan hero ke listSuperHero
+        listHewan.add(hewan);
+        hewan = new Hewan("Anjing", this.getResources().getDrawable(R.drawable.dog_hewan));
         //menambahkan hero ke listSuperHero
         listHewan.add(hewan);
         hewan = new Hewan("Anjing", this.getResources().getDrawable(R.drawable.dog_hewan));
