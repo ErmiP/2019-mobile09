@@ -25,11 +25,11 @@ public class MainActivity extends AppCompatActivity {
         //menyambungkan rvSuperHero ke layout
         rvHewan = findViewById(R.id.rvHewan);
         //Membuat object hero
-        Hewan hewan = new Hewan("Bebek", this.getResources().getDrawable(R.drawable.bebek_hewan));
+        Hewan hewan = new Hewan("Kucing", this.getResources().getDrawable(R.drawable.kucing_hewan));
         //menambahkan hero ke listSuperHero
         listHewan.add(hewan);
         //membuat object hero baru
-        hewan = new Hewan("Gajah", this.getResources().getDrawable(R.drawable.gajah_hewan));
+        hewan = new Hewan("Anjing", this.getResources().getDrawable(R.drawable.anjing_hewan));
         //menambahkan hero ke listSuperHero
         listHewan.add(hewan);
         //Instansiasi Adapter
